@@ -1,0 +1,69 @@
+# Cutting Edge Technology Structure
+
+- Front-end
+  - Language
+    - ES6 JavaScript : 트래스파일러 사용
+    - Typescript : 타입체크
+  - Framework
+    - Vue.js :
+    - ReactJS
+    - AngularJS
+- Back-end
+  - Language
+    - Golang
+      - Revel
+      - Beego
+    - Python
+      - Flask
+    - Node.js
+      - ExpressJS
+  - RESTful API
+    - Swagger
+    - APIM
+    - OAuth2.0
+  - Search Engine
+    - ElasticSearch
+    - Sphinx
+    - Solr
+  - Message Brokers
+    - Apache Kafka
+    - RabbitMQ
+- Blockchain
+  - Framework
+    - Hyperledger
+    - Ethereum
+    - Bitcoin
+  - Language
+    - go
+    - solidity
+- Mobile
+  - Language
+    - Swift2
+    - Kotlin
+  - Framework
+    - React Native
+    - Xamarin
+- Cloud
+  - Vender
+    - AWS
+    - Google Cloud
+    - Azure
+    - IBM Cloud
+  - Container base development
+    - Docker
+    - Kubernetes
+    - Swarm
+    - Mesos
+  - Automation
+    - Ansible
+    - Puppet
+    - Terraform
+- Others
+  - Search Engine
+    - ElasticSearch
+    - Sphinx
+    - Solr
+  - Artificial Intelligence
+    - ChatBot
+    - NLP
+    - Biometrics
